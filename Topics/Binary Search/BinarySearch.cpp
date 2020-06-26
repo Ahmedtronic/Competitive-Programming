@@ -1,7 +1,3 @@
-//binarysearch 
-
-
-
 // basic implementation
 int arr[1000001];
 ll low , high , mid;
