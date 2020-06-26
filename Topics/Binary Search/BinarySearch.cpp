@@ -42,7 +42,7 @@ int Binary_Serach_find_first(int start, int end, int val)
 
 
 
-//find the index of the first element == value in a sorted array
+//find the index of the last element == value in a sorted array
 int Binary_Serach_find_Last(int start, int end, int val) 
 {
 	while(start < end) 
